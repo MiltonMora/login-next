@@ -1,5 +1,6 @@
 'use client'
 import { useState } from 'react'
+import { resolve } from 'styled-jsx/css'
 
 export default function RegisterPage () {
   const [data, setdData] = useState({
